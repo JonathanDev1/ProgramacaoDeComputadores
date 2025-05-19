@@ -51,10 +51,15 @@ Essa estrutura realiza a verificação da condição lógica no início do laço
 Se a condição inicial for falsa, o bloco de comandos não será executado e o programa continuará normalmente a partir da instrução seguinte ao laço.
 Se a condição for verdadeira, o bloco será executado e, ao final, a condição será testada novamente, repetindo esse processo enquanto a condição permanecer verdadeira. Quando a condição se tornar falsa, o laço termina e a execução do programa continua normalmente.
 É fundamental garantir que em algum momento a condição avaliada se torne falsa; caso contrário, o laço pode se tornar infinito, travando a execução do programa.
-Exemplo prático em repeticao_while.py
+
+Exemplo em repeticao_while.py
 
 # Material de apoio teórico para esta aula se encontra nas seguintes seções do livro "Algoritmos e Programação I EBOOK.pdf":
+
 ESTRUTURAS DE CONTROLE DO FLUXO DE EXECUÇÃO (página 103)
+
 SEÇÃO 1- ESTRUTURA SEQUENCIAL (página 104)
+
 SEÇÃO 2- ESTRUTURAS DE DECISÃO (página 114)
+
 SEÇÃO 3- ESTRUTURAS DE REPETIÇÃO (página 135)
