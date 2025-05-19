@@ -45,7 +45,7 @@ São aqueles onde existe um mecanismo para contar o número de vezes que o corpo
 
 Exemplo em repeticao_for.py
 
-**Construção Enquanto (While)**
+# **Construção Enquanto (While)**
 
 Essa estrutura realiza a verificação da condição lógica no início do laço, testando se o bloco de comandos deve ser executado ou não. Para funcionar corretamente, é necessário que as variáveis envolvidas já estejam inicializadas antes da execução do laço.
 Se a condição inicial for falsa, o bloco de comandos não será executado e o programa continuará normalmente a partir da instrução seguinte ao laço.
