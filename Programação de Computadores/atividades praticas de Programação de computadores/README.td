@@ -3,7 +3,7 @@
 Aluno: Jonathan Alves(RGM36290840)
 aluno: Kleber Galvão (RGM36292575)
 
-Curso: ADS
+Curso: Analise e desenvolvimento de sistemas - UDF
 ___________________________________________________________________________________________________________________________________________________________________________________________
 # **Estruturas de Controle do Fluxo de Execução**
 
