@@ -1,4 +1,4 @@
-# ProgramacaoDeComputadores
+# Programação De Computadores
 
 Aluno: Jonathan Alves(RGM36290840)
 aluno: Kleber Galvão (RGM36292575)
